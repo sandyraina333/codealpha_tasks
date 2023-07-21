@@ -1,1 +1,3 @@
 # codealpha_tasks
+This is my first project of codealpha as a intern...
+This project is developing a Portfolio Website
